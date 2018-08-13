@@ -1,2 +1,3 @@
 # hello-world
-new day
+Hello there!
+Making my way through the lerning process.
